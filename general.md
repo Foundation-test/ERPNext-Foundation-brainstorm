@@ -1,6 +1,6 @@
 ## Locations utilized for working on Foundation matters
 
- 1. [Foundations Github](https://github.com/Foundation-test/)
+ 1. [Foundations Github](https://github.com/Foundation-test/) (meanigful organization name to be defined yet)
  2. [Website](https://erpnext.org)
  3. The ERPNext Forum 
  
@@ -9,12 +9,17 @@
 to collaboratively develop and store ...
 - documents (i.e. bylaws)
 - procedures (i.e election procedures)
-- best practices
+- best practices, working procedures
 
 ### 2. The Foundation's [Website](https://erpnext.org)
-- add details here
-  
+- List of Foundation Members (public)
+- Foundations accounting and finances (ERPNext account module)
+- List Events
+- Show Bylaws and Regulations (maybe the blog could be used for that)
+- Show Foundation structure and working procedures
+
 
 ### 3. The [ERPNext Forum](https://discuss.erpnext.com)
-- add details here
+- general discussion about Foundation and Community related toppics (utilizing the open and closed Category). Generally the closed category is hardly used
+- etc ...
   
