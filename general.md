@@ -14,9 +14,9 @@ to collaboratively develop and store ...
 ### 2. The Foundation's [Website](https://erpnext.org)
 - List of Foundation Members (public)
 - Foundations accounting and finances (ERPNext account module)
-- List Events
-- Show Bylaws and Regulations (maybe the blog could be used for that)
-- Show Foundation structure and working procedures
+- Publish Events
+- Publish Bylaws and Regulations (maybe the blog could be used for that)
+- Publish Foundation structure and working procedures (also blog maybe)
 
 
 ### 3. The [ERPNext Forum](https://discuss.erpnext.com)
