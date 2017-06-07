@@ -1,8 +1,9 @@
-## Locations utilized for working on Foundation matters
+# Locations utilized for working on Foundation matters
 
- 1. [Foundations Github](https://github.com/Foundation-test/) (meanigful organization name to be defined yet)
- 2. [Website](https://erpnext.org)
- 3. The ERPNext Forum 
+ 1. [Foundation's **Github**](https://github.com/Foundation-test/) (meanigful organization name to be defined yet)  
+ to be an independent github organization
+ 2. [Foundation's **Website**](https://erpnext.org)
+ 3. The ERPNext **Forum** 
  
 ### 1. The Foundation's [Github](https://github.com/Foundation-test/) 
 
@@ -20,6 +21,15 @@ to collaboratively develop and store ...
 
 
 ### 3. The [ERPNext Forum](https://discuss.erpnext.com)
-- general discussion about Foundation and Community related toppics (utilizing the open and closed Category). Generally the closed category is hardly used
+- general discussion about Foundation and Community related topics (utilizing the open and closed Category). In my understanding the closed category is hardly used
 - etc ...
-  
+-------------------
+# Elections/voting
+
+should be traceable and clear in procedure. Here are tools that may be used
+
+1. https://heliosvoting.org
+... to be continued
+
+
+
