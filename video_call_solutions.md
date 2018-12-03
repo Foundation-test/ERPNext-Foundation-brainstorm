@@ -6,5 +6,5 @@ At present each and every time a new structure is being build by everyone.
 
 in regards to video calls ... here is s list of possible solutions
 
-- [spreed.me](https://github.com/strukturag/nextcloud-spreedme), or [this[(https://www.spreed.me/download/)
+- [spreed.me](https://github.com/strukturag/nextcloud-spreedme), or [this](https://www.spreed.me/download/)
 - [jitsi](https://jitsi.org/)
